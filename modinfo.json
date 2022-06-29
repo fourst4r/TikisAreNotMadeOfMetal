@@ -1,0 +1,14 @@
+{
+  "name": "TikisAreNotMadeOfMetal",
+  "author": "st*r",
+  "description": "Stops your metal detector from detecting wooden tikis! To unpatch reload the world with the mod disabled.",
+  "version": "1.0",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/tikis-are-not-made-of-metal/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
